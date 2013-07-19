@@ -1,13 +1,3 @@
-## v0.101.2:
-
-### Bug
-
-- [COOK-2951]: aws cookbook has foodcritic failures
-
-### Improvement
-
-- [COOK-1471]: aws cookbook should mention the route53 cookbook
-
 ## v0.101.0
 
 ### Bug
