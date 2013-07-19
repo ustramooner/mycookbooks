@@ -1,0 +1,75 @@
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "php"]
+	path = php
+	url = https://github.com/wdalmut/php.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "application_zf"]
+	path = application_zf
+	url = https://github.com/PUGTorino/application_zf.git
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/opscode-cookbooks/rsyslog.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/opscode-cookbooks/logrotate.git
+[submodule "s3cmd"]
+	path = s3cmd
+	url = https://github.com/freerobby/s3cmd.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "java"]
+	path = java
+	url = https://github.com/opscode-cookbooks/java.git
+[submodule "ant"]
+	path = ant
+	url = https://github.com/opscode-cookbooks/ant.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/guillermo-carrasco/hadoop.git
+[submodule "homebrew"]
+	path = homebrew
+	url = https://github.com/opscode-cookbooks/homebrew.git
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/edelight/chef-mongodb.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "aws"]
+	path = aws
+	url = https://github.com/opscode-cookbooks/aws.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
