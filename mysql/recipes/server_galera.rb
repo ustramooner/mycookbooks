@@ -238,7 +238,7 @@ script "Check-sync-status" do
   code <<-EOH
   TIMER=#{node["galera"]["global_timer"]}
   until [ $TIMER -lt 1 ]; do
-  /usr/bin/mysql -p#{reference_node['mysql']['server_root_password']} -Nbe "show status like 'wsrep_local_state_comment'" | /bin/grep -q Synced
+  /usr/bin/mysql -p#{node['mysql']['server_root_password']} -Nbe "show status like 'wsrep_local_state_comment'" | /bin/grep -q Synced
   rs=$?
   if [[ $rs == 0 ]] ; then
   exit 0
