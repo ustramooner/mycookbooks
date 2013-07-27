@@ -31,9 +31,6 @@
 [submodule "yum"]
 	path = yum
 	url = https://github.com/opscode-cookbooks/yum.git
-[submodule "mysql"]
-	path = mysql
-	url = https://github.com/att-cloud/cookbook-mysql.git
 [submodule "xml"]
 	path = xml
 	url = https://github.com/opscode-cookbooks/xml.git
